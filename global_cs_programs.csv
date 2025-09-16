@@ -12,7 +12,7 @@ Cambridge MLMI,Cambridge,英国,T0,11月,EN,Mphil,否,是,剑桥提供少量奖�
     ","* 11个月，学制短，不到一年的时间可能无法满足部分城市留学生户口政策
     ",每年都有陆本同学录取，并未察觉明显海本偏好。,0,null,"* 语言未达到可以先等offer，如果录取后面在补交（据说参加剑桥英语考核可能相对容易）
     * 1000字符的SOP，差不多150个单词就能填满",null
-EPFL MSCS,EPFL,欧陆,T0,2~3年,EN,MSc in Computer Science,是,是,IC research scholarship & EPFL excellence fellowship (在申请时勾选，且均难以获得),null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
+EPFL MSCS,EPFL,欧洲,T0,2~3年,EN,MSc in Computer Science,是,是,IC research scholarship & EPFL excellence fellowship (在申请时勾选，且均难以获得),null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
     * 自带瑞士实习，提升留瑞工作几率
     * 变态且扎实的课业难度
     * 学费便宜
@@ -23,12 +23,12 @@ EPFL MSCS,EPFL,欧陆,T0,2~3年,EN,MSc in Computer Science,是,是,IC research s
     陆本录取者的大致背景是华五以上并且能够获得美国优异offer的牛人。",1,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本Top5', '本科专业': 'CS', 'GPA/Rank': '91.61/100', '科研经历': '2段校内', '实习经历': '无', '其他（语言/推荐信）': 'TOEFL 104 (S23), GRE 329 + 4'}]","* EPFL的推荐人不可更换（由于申请网站很垃圾），请一定得找100%能给你些推荐信的老师（虽然只有两份推荐信EPFL也会审理你的材料）。
     * 提交申请后才会给推荐人发送推荐信链接，且一旦提交申请，材料不可补交。因而需要仔细斟酌提交申请的时间（由于申请截止日期临近西方国家圣诞假期，需要国外推荐人的小伙伴尤其需要斟酌提交申请的时间）。
     * EPFL会要求推荐人提交对被推荐人排名的预估，建议提前告知推荐人自己的排名。",null
-ETH Cyber Security,ETH,欧陆,T0,2~3年,EN,Master in Cyber Security,null,是,ESOP,null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
+ETH Cyber Security,ETH,欧洲,T0,2~3年,EN,Master in Cyber Security,null,是,ESOP,null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
     * 变态且扎实的课业难度
     * 学费便宜（1kCHF左右）
     * 瑞士风景不错，较为安全，到其他国家游玩方便（如果你还能有时间玩）
     ",null,* 该项目录取人数相对CS和DS较少，课程匹配要求和CS一样。,2,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本Top15', '本科专业': 'CS', 'GPA/Rank': '3.94/4.0', '科研经历': '三段校内', '实习经历': '无', '其他（语言/推荐信）': 'IELTS 7.5(6.5), GRE 330+4'}, {'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本Top5', '本科专业': 'CS', 'GPA/Rank': '91.61/100', '科研经历': '2段校内', '实习经历': '无', '其他（语言/推荐信）': 'TOEFL 104 (S23), GRE 329 + 4'}]",* 高中毕业证明的一种处理办法是拿到本地公证处进行中英文公证,null
-ETH MSCS,ETH,欧陆,T0,2~3年,EN,Master of Computer Science,否,是,ESOP奖学金（难以获得）,null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
+ETH MSCS,ETH,欧洲,T0,2~3年,EN,Master of Computer Science,否,是,ESOP奖学金（难以获得）,null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
     * 变态且扎实的课业难度
     * 学费便宜（1kCHF左右）
     * 瑞士风景不错，较为安全，到其他国家游玩方便（如果你还能有时间玩）
@@ -37,7 +37,7 @@ ETH MSCS,ETH,欧陆,T0,2~3年,EN,Master of Computer Science,否,是,ESOP奖学�
     ","* 对于陆本部分学校而言，如果你校每年有有人录取这个项目（假设人数为N)。如果你在今年你们学校的申请者中，学分绩排名在前N名，则有一定几率录取。
     * 非常看重你的学校层次、课业成绩（GPA）以及你与该项目的课程匹配程度（这一点对欧洲大部分项目都适用），而科研、实习和推荐信则属于锦上添花。",5,"[{'录取时间': '24Fall', '录取结果': 'AD', '学校（档次）': '陆本某年轻双非', '本科专业': 'CS', 'GPA/Rank': '3.97/4.0', '科研经历': '1段校内1段海外', '实习经历': '无', '其他（语言/推荐信）': 'T105, MIT教授强推'}, {'录取时间': '23fall', '录取结果': 'AD', '学校（档次）': '陆本Top15', '本科专业': 'CS', 'GPA/Rank': '3.9/4.0', '科研经历': '1段校内；1段海外', '实习经历': '2段国内大厂', '其他（语言/推荐信）': 'T105'}, {'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本Top15', '本科专业': 'CS', 'GPA/Rank': '3.94/4.0', '科研经历': '三段校内', '实习经历': '无', '其他（语言/推荐信）': 'IELTS 7.5(6.5), GRE 330+4'}, {'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本Top15', '本科专业': 'CS', 'GPA/Rank': '92.05/100', '科研经历': '2段校内', '实习经历': '2段国内大厂', '其他（语言/推荐信）': 'IELTS 7.5(6.5), GRE 323+3'}, {'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本Top5', '本科专业': 'CS', 'GPA/Rank': '91.61/100', '科研经历': '2段校内', '实习经历': '无', '其他（语言/推荐信）': 'TOEFL 104 (S23), GRE 329 + 4'}]","* 该项目申请无需提交课程描述
     * 高中毕业证明的一种处理办法是拿到本地公证处进行中英文公证",null
-ETH MSDS,ETH,欧陆,T0,2~3年,EN,Master in Data Science,否,是,ESOP,null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
+ETH MSDS,ETH,欧洲,T0,2~3年,EN,Master in Data Science,否,是,ESOP,null,"* 优异的QS排名和国际名誉，全球顶尖CS实验室
     * 变态且扎实的课业难度
     * 学费便宜（1kCHF左右）
     * 瑞士风景不错，较为安全，到其他国家游玩方便（如果你还能有时间玩）
@@ -50,7 +50,7 @@ Oxford ACS,Oxford,英国,T0,一年,EN,MSc in Advanced Computer Science,否,是,�
     ",有一定的海本录取偏好，招人相对剑桥的ACS似乎人数会更加保守。,1,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': 'LMU Munich', '本科专业': 'CS+NLP', 'GPA/Rank': '1.14/1.0', '科研经历': '1段校内', '实习经历': '无', '其他（语言/推荐信）': '无雅无G'}]","* 语言未达到可以先等offer，如果录取后面再补交
     * 牛津的文书可能是我见过要求最多的文书 :(",* 有面试的话，是能被录取的积极信号，请认真准备。
 UCL CSML MSc,UCL,英国,T0,null,null,null,null,null,null,null,null,null,null,0,null,null,null
-EPFL MSDH,EPFL,欧陆,T0.5,2~3年,EN,MSc in Digital Humanities,是,是,IC research scholarship & EPFL excellence fellowship (在申请时勾选，且均难以获得),null,"* 优异的QS排名和国际名誉
+EPFL MSDH,EPFL,欧洲,T0.5,2~3年,EN,MSc in Digital Humanities,是,是,IC research scholarship & EPFL excellence fellowship (在申请时勾选，且均难以获得),null,"* 优异的QS排名和国际名誉
     * 自带瑞士实习，提升留瑞工作几率
     * 学费便宜
     * 录取门槛可能比EPFL MSCS低不少（待完善录取数据）
@@ -60,7 +60,7 @@ EPFL MSDH,EPFL,欧陆,T0.5,2~3年,EN,MSc in Digital Humanities,是,是,IC resear
     * title不如MSCS好看，看起来没那么硬核
     * 仅适合喜欢数字人或者相关图形娱乐技术的同学
     ",23fall有武大华科同层次学校的CS同学被录取。,0,null,null,null
-Aalto CS,Aalto,欧陆,T1,2年,EN,Master of Science (Technology),否,是,全奖，半奖，全奖+5000欧,null,"- **申请条件**：需连续持有 **A级 permit 4 年** 。
+Aalto CS,Aalto,欧洲,T1,2年,EN,Master of Science (Technology),否,是,全奖，半奖，全奖+5000欧,null,"- **申请条件**：需连续持有 **A级 permit 4 年** 。
     - **学生签证和伴侣签证**：学生签为 A类 permit，计入，伴侣签证也为A类，计入。
     - **Job Seeker 签证：**
         - 有效期最长**两年（可拆三阶段，每段 ≥6个月）**，也属于 **A 类 permit。**
@@ -79,8 +79,8 @@ Aalto CS,Aalto,欧陆,T1,2年,EN,Master of Science (Technology),否,是,全奖�
     ","根据23fall申请，录取标准基本为985，均分85+
     由于竞争过大，加入要求GPA3.5/4.0",0,null,"可以申请2个项目，反正不要钱，不投白不投
     注意提前修改好文件格式 文件类型-名字 如CV-LI-Hua.pdf",23fall奖学金bar变得极高，往年半奖的bg今年大多数无奖
-Aalto HCI,Aalto,欧陆,T1,null,null,null,null,null,null,null,null,null,null,0,null,今年新加入要求GPA ≥ 3.5/4.0,null
-Aalto MLDSAI,Aalto,欧陆,T1,null,null,null,null,null,null,null,null,null,null,0,null,null,null
+Aalto HCI,Aalto,欧洲,T1,null,null,null,null,null,null,null,null,null,null,0,null,今年新加入要求GPA ≥ 3.5/4.0,null
+Aalto MLDSAI,Aalto,欧洲,T1,null,null,null,null,null,null,null,null,null,null,0,null,null,null
 Edinburgh AI,Edinburgh,英国,T1,null,null,null,null,null,null,null,null,null,null,0,null,null,null
 IC AC,IC,英国,T1,1年,EN,MSc Advanced Computing,否,是,少量奖学金，难以获得,null,"* 优异的QS排名和国内名誉
     * 伦敦是一个美丽且富有人文气息的城市，找工和实习机会相对更为丰富
@@ -98,7 +98,7 @@ IC AIML,IC,英国,T1,1年,EN,MRes Artificial Intelligence and Machine Learning,�
     ","* 42,600英镑的学费+伦敦高昂的生活成本
     * UK找工作有一定难度，许多同学选择回国工作
     ",null,1,"[{'录取时间': '25fall', '录取结果': 'AD', '学校（档次）': '国内211', '本科专业': '软件工程', 'GPA/Rank': '3.9/4', '科研经历': '3段无产出', '实习经历': '3段', '其他（语言/推荐信）': '/'}]",* 往年该项目需要提前陶瓷导师，但是25fall变更了申请方式，改为提交一页的rp,null
-KTH MSCS,KTH,欧陆,T1,2年,EN,CS Msc,否,是,全奖（难以获得）,null,"* 有着非常丰富的track可以选择，KTH学业压力不小
+KTH MSCS,KTH,欧洲,T1,2年,EN,CS Msc,否,是,全奖（难以获得）,null,"* 有着非常丰富的track可以选择，KTH学业压力不小
     * 良好的移民和找工环境
     * 得益于KTH在中国的热情宣传，国内名声不错
     * 可能在瑞典就读phd的机会(你会获得高昂的工资！)
@@ -128,7 +128,7 @@ KTH MSCS,KTH,欧陆,T1,2年,EN,CS Msc,否,是,全奖（难以获得）,null,"* �
     ","23fall该项目申请异常激烈，有同学被ETH录取但进入了KTH的waiting list。
     23fall有全职经验的同学获得录取，不确定是否有相关倾向。",0,null,"* 一份申请费最多可以申请四个项目，不要浪费
     * 需要自己上传推荐信，国外教授可能不乐意",* 奖学金全奖会考虑本科学校QS排名
-KTH MSML,KTH,欧陆,T1,2年,EN,ML Msc,否,是,全奖（难以获得）,null,"* 扎实的ML知识培养，KTH学业压力不小
+KTH MSML,KTH,欧洲,T1,2年,EN,ML Msc,否,是,全奖（难以获得）,null,"* 扎实的ML知识培养，KTH学业压力不小
     * 良好的移民和找工环境
     * 可能在瑞典就读phd的机会(你会获得高昂的工资！)
     * 得益于KTH在中国的热情宣传，国内名声不错
@@ -140,7 +140,7 @@ KTH MSML,KTH,欧陆,T1,2年,EN,ML Msc,否,是,全奖（难以获得）,null,"* �
     * 冬季缺少日照，容易心情不好的同学请谨慎（学校设置阳光屋）
     ",ML项目的竞争和CS项目相当（甚至更加激烈）,0,null,"* 一份申请费最多可以申请四个项目，不要浪费
     * 需要自己上传推荐信，国外教授可能不乐意",* 奖学金全奖会考虑本科学校QS排名
-Polimi CSE,Polimi,欧陆,T1,2年,EN,Master of Science,否,是,1w/8k欧,可申请DSU助学金,"* 没有学费，每年4k注册费（DSU可免除）
+Polimi CSE,Polimi,欧洲,T1,2年,EN,Master of Science,否,是,1w/8k欧,可申请DSU助学金,"* 没有学费，每年4k注册费（DSU可免除）
     * DSU助学金基本人人都有，最高额每年7k欧+每天5欧餐饮补贴，并且有低廉宿舍补贴
     * 交换项目众多，并且每月有600欧左右生活补贴
     * 学校在欧洲声誉较好，升学较容易","* 项目课程设置偏理论，强度较大，一般2.5-3年毕业
@@ -148,7 +148,7 @@ Polimi CSE,Polimi,欧陆,T1,2年,EN,Master of Science,否,是,1w/8k欧,可申请
     * 米兰治安较差
     ",看重课程匹配和本科层次，985优先录取,1,"[{'录取时间': '24Fall', '录取结果': 'AD', '学校（档次）': '华五', '本科专业': 'CS', 'GPA/Rank': '3.2', '科研经历': '2段校内', '实习经历': '无', '其他（语言/推荐信）': 'IELTS7(6), 两封校内老板'}]","* 网申系统较古董，容易崩溃
     * 知乎上有完整的DIY流程",24Fall bar暴涨
-TUD MSCESE,TUD,欧陆,T1,2,EN,MSc in Computer and Embedded System Engineering,是,是,可以申TUD的奖学金,null,"
+TUD MSCESE,TUD,欧洲,T1,2,EN,MSc in Computer and Embedded System Engineering,是,是,可以申TUD的奖学金,null,"
     * 良好的QS排名和国际名誉
     * 变态且扎实的课业难度
     * 荷兰提供欧洲中相对不错的找工作环境和移民政策
@@ -162,7 +162,7 @@ TUD MSCESE,TUD,欧陆,T1,2,EN,MSc in Computer and Embedded System Engineering,�
     * 一年四个学期，考试频繁，学业比较大
     * 若想获得永居，可能需要学习荷兰语，并且很多路标、超市商品名等均为荷兰语
     * 相比原来的CE项目选课自由度降低了很多",null,0,null,null,null
-TUD MSCS,TUD,欧陆,T1,2年,EN,CS Msc,否,是,可申请,null,"* 良好的QS排名和国际名誉
+TUD MSCS,TUD,欧洲,T1,2年,EN,CS Msc,否,是,可申请,null,"* 良好的QS排名和国际名誉
     * 变态且扎实的课业难度
     * 荷兰提供欧洲中相对不错的找工作环境和移民政策
     * 代尔夫特的樱花据说非常好看
@@ -178,7 +178,7 @@ TUD MSCS,TUD,欧陆,T1,2年,EN,CS Msc,否,是,可申请,null,"* 良好的QS排�
     * 如果决定要去一定要尽早租房/缴纳TUD的租房服务账单"
 UCL DSML MSc,UCL,英国,T1,null,null,null,null,null,null,null,null,null,null,0,null,null,null
 UCL ML MSc,UCL,英国,T1,null,null,null,null,null,null,null,null,null,null,0,null,null,null
-UvA AI,UvA,欧陆,T1,2 年,EN,MSc Artificial Intelligence,否,是,AMS 奖学金（较难获得）,null,"* 阿姆斯特丹大学在人工智能领域很厉害（csranking 人工智能领域欧洲第四，仅次于瑞士双 E），有 Max Welling 坐镇，带领了一众很厉害的教授，并且和微软合作密切，有几率可以获得微软的工作机会
+UvA AI,UvA,欧洲,T1,2 年,EN,MSc Artificial Intelligence,否,是,AMS 奖学金（较难获得）,null,"* 阿姆斯特丹大学在人工智能领域很厉害（csranking 人工智能领域欧洲第四，仅次于瑞士双 E），有 Max Welling 坐镇，带领了一众很厉害的教授，并且和微软合作密切，有几率可以获得微软的工作机会
     * 属于学硕，之后读博更加方便
     * 荷兰获得永居相对容易，找工作也相对容易
     * 只是针对 AI 领域的项目，因此不会强制上一些其它 CS 相关的课
@@ -200,7 +200,7 @@ UvA AI,UvA,欧陆,T1,2 年,EN,MSc Artificial Intelligence,否,是,AMS 奖学金�
     * 关于为什么会有一些学生在 2 月份收到录取：Please note, we pre-selected the students of who we were convinced they will be offered a place. You were one of those students.
     * 似乎不是所有人在收到录取时都会有邮件通知？所以如果看到有人录了的话还是主动去 Datanose 上看看申请状态吧
     * 关于两周内确认 offer 但最终不去的后果，参考官方回复：If you accept the admission offer to any of our Faculty of Science Master programmes and then decline this offer later on there will not be any consequences involved."
-Aarhus CS,Aarhus,欧陆,T1.5,2年,EN,Master of Science,否,是,全奖,null,"* 招生人数较少，师生比堪称梦幻（不算本科生 44：270）
+Aarhus CS,Aarhus,欧洲,T1.5,2年,EN,Master of Science,否,是,全奖,null,"* 招生人数较少，师生比堪称梦幻（不算本科生 44：270）
     * 当地英语普及率极高
     * 奥胡斯作为大学城当地平均年龄低，年轻人多（学校相关人口占城市总人口1/5）
     * 生活住房成本较低，且校内提供第一年的找房服务（非校内宿舍，类似于学校合作的学生宿舍）
@@ -219,7 +219,7 @@ Aarhus CS,Aarhus,欧陆,T1.5,2年,EN,Master of Science,否,是,全奖,null,"* �
     *丹麦学校对于中国学校的排名看法和中国主流看法有差异，建议查看本校和相关学校有无相关合作","无
 
 * 2024 update：关于转博，有可能对中国学生进行背景审查（详见公众号“丹麦研究中心”2024年3月4日的[文章](https://www.163.com/dy/article/ISHPN05305527UO2.html)）"
-CTH CSN,CTH,欧陆,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 学校和各种企业合作很多，软件工程专业好找工作
+CTH CSN,CTH,欧洲,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 学校和各种企业合作很多，软件工程专业好找工作
     * 位于瑞典工业城市哥德堡，信息、汽车产业发达，利于就业
     * CTH在瑞典声誉良好，与KTH不相上下
     * CTH保证学生住宿，不用愁租房子
@@ -228,18 +228,18 @@ CTH CSN,CTH,欧陆,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 学校和�
     * 外国人在瑞典职场上升空间有限，当地也存在种族歧视问题。",按主观录取选择标准优先级排序：1.课程匹配度 2.均分 3.工作经验 4.学校排名 5.科研,3,"[{'录取时间': '24Fall', '录取结果': 'AD+75%奖', '学校（档次）': '华五', '本科专业': 'CS', 'GPA/Rank': '3.2', '科研经历': '两段水科研', '实习经历': '无', '其他（语言/推荐信）': 'IELTS 7'}, {'录取时间': '24Fall', '录取结果': 'AD', '学校（档次）': '211', '本科专业': 'CS', 'GPA/Rank': '3.2', '科研经历': '两段水科研', '实习经历': '实习2段工作2年', '其他（语言/推荐信）': 'IELTS 6.5'}, {'录取时间': '24Fall', '录取结果': 'AD', '学校（档次）': '985', '本科专业': 'SE', 'GPA/Rank': '3.6/4 85/100', '科研经历': '一段科研', '实习经历': '中厂实习', '其他（语言/推荐信）': 'IELTS 7.5'}]",课程描述是文书大头，需要认真准备。,"24Fall奖学金的bar没有那么高，或许明年会卷起来
 
 ​	上述说的好找工作可能并没有想象的那么好找工作，详见b站CTH在读up主 [**S-WangZ**](https://space.bilibili.com/290415485) 的留学体验分享。进群以后 21/22/23 的学长学姐均表示不太好找实习。"
-CTH DSAI,CTH,欧陆,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 数学基础课扎实硬核。
+CTH DSAI,CTH,欧洲,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 数学基础课扎实硬核。
     * 位于瑞典工业城市哥德堡，信息、汽车产业发达，利于就业，去沃尔沃、爱立信、阿斯利康等企业实习机会很大，在瑞典独一档（总部都设在哥村了）。
     * CTH在瑞典声誉良好，与KTH不相上下，校友多且分布广泛。
     * 城市沿海，一小时内可以去海岛、森林，交通便利，风景优美。
-    * Workload相对比较小。","* 哥德堡治安趋于恶化。（补充：治安相对欧陆其他城市还是强的多的）
+    * Workload相对比较小。","* 哥德堡治安趋于恶化。（补充：治安相对欧洲其他城市还是强的多的）
     * 学术资源不足，在传统的CV/NLP中资源短缺，未来想做纯AI研究不建议来这里，目前在AI领域只有Simon/Rocio在做与AI+分子模拟/制药等工作。
     * 课程教学偏向统计，DS相关课程参杂大量过时方法（e.g. 基于规则的对话系统），在AI相关的课程上有些落后于时代。
     * 做研究机会少，想要第二年做1年毕设需要很提前联系导师并且得写proposal，否则读博难。
     ","* 985/211出身的学生，奖学金在此项权重很高
     * 课程匹配度和均分较高的学生
     * 第一志愿的学生",2,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '985', '本科专业': 'CS', 'GPA/Rank': '85', '科研经历': '无', '实习经历': '一段小厂', '其他（语言/推荐信）': 'IELTS 6.5'}, {'录取时间': '24Fall', '录取结果': 'AD', '学校（档次）': '双非', '本科专业': 'CS', 'GPA/Rank': '89', '科研经历': '水文', '实习经历': '一段大厂', '其他（语言/推荐信）': 'IELTS 6.5 企业实习推+课程TA推'}]",null,null
-CTH SE,CTH,欧陆,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 学校和各种企业合作很多，软件工程专业好找工作
+CTH SE,CTH,欧洲,T1.5,2年,EN,Master of Science,否,是,75%,null,"* 学校和各种企业合作很多，软件工程专业好找工作
     * 位于瑞典工业城市哥德堡，信息、汽车产业发达，利于就业
     * CTH在瑞典声誉良好，与KTH不相上下","* 哥德堡治安趋于恶化
     * 学费较贵两年320,000SEK
@@ -298,7 +298,7 @@ EM欧盟奖学金,EM欧盟奖学金,未分类,T1.5,2年,EN,Master of Computer Sc
     * LCT","EM的项目非常注重diversity，也就是说，录取非常玄学。由于每个国家3个奖学金名额的限制，是否能拿到奖学金完全由跟你同年申请的竞争者决定，所以奖学金的bar每年浮动会比较大。
     即使背景不算强，也可能拿全奖；即使是大佬，也有可能被竞争者比过。
     这一点有区别于其他项目历年来相对稳定的bar。",1,"[{'录取时间': '23Fall', '录取结果': 'AD全奖', '学校（档次）': '陆本top15', '本科专业': 'IS', 'GPA/Rank': '91.52/100，top5%', '科研经历': '2段校内', '实习经历': '2段小厂', '其他（语言/推荐信）': 'T111，G324+4'}]",null,null
-HKU CS Msc,HKU,欧陆,T1.5,null,null,null,null,null,null,null,"* 良好的QS排名，不错的国内名声
+HKU CS Msc,HKU,欧洲,T1.5,null,null,null,null,null,null,null,"* 良好的QS排名，不错的国内名声
     * 相对耗时较短的硕士学位，可以躲避找工困难时期并提升学历
     * 少量成为HKU Phd机会
     * 离家近，回国方便
@@ -330,7 +330,7 @@ HKUST IT,HKUST,香港,T1.5,null,null,null,null,null,null,null,"* 良好的QS排�
     * HK有一定歧视问题，最近越来越好
     * 课程内容相对轻松，与本科课程重合度较高，适合想转码或者有码基础的管理人才就读（港校老师原话）
     ",看重学校title和学分绩,0,null,null,null
-KU CS,KU,欧陆,T1.5,2年,EN,Master of Science,否,是,全奖,null,"* 学费 EUR 7,390一学期
+KU CS,KU,欧洲,T1.5,2年,EN,Master of Science,否,是,全奖,null,"* 学费 EUR 7,390一学期
     * 哥哈CS在NLP和理论算法方向很强，CV方面有Serge Belongie大佬坐镇
     * 可参考此[学习体验](https://zhuanlan.zhihu.com/p/495418502)
     * 可以上隔壁DTU以及ITU的课来转学分（但是校区距离较远）
@@ -347,7 +347,7 @@ KU CS,KU,欧陆,T1.5,2年,EN,Master of Science,否,是,全奖,null,"* 学费 EUR
     2.如果你要回国工作，KU排名略高于DTU，但是鉴于你花了太多时间上没用的课（advanced programming, advanced algorithm and data structure, advanced computer system）这三门必修课对你就业没啥用，限制性选修的课也大部分没啥用，你没时间学开发知识，而DTU课程设置贴近开发，课程简单有助于你节省时间去实习，两年后，DTU毕业的你会强得多，足以克服排名不如KU的缺点 
 
     3.你想读博，DTU有special course ，老师很愿意带你科研，有希望发文章，不用把时间花在没用的课上，你又因此有更多的时间科研，胜 总结 去DTU"
-LMU Informatics,LMU,欧陆,T1.5,2年,German,Master in Computer Science,否,是,德意志奖学金,null,"* 相对于其他德国学校给分较高，挂科率更低
+LMU Informatics,LMU,欧洲,T1.5,2年,German,Master in Computer Science,否,是,德意志奖学金,null,"* 相对于其他德国学校给分较高，挂科率更低
     * 在ML/AI/CV方向比较有竞争力
     * 与工业界联系紧密，毕业后有很好的工作机会，并且作为精英项目也有很好的读博机会
     * 免学费（随着TUM开始收学费，巴伐利亚的其他学校很快也会开始收取学费。Master约 2-6k €/学期）
@@ -401,7 +401,7 @@ NUS Mcomp,NUS,新加坡,T1.5,1.5 年,EN,Master of Computing(Computer Science Spe
     * 受到经济形势影响，新加坡找到国际大厂工作难度很高，不少同学选择回国
     ",无明显趋势，个人体感更看重学校档次和GPA,1,"[{'录取时间': '23fall', '录取结果': 'AD', '学校（档次）': '陆本Top15', '本科专业': 'CS', 'GPA/Rank': '3.84/4(91)', '科研经历': '一段校内', '实习经历': '一段国内中大厂', '其他（语言/推荐信）': 'T108; G330'}]","* 申请general track 不是必须要提交GRE成绩
     * 成绩单需要提交前7个学期的",* 需要提交留位费5000新币（对于香港来说相对友好）
-TUE CS,TUE,欧陆,T1.5,2年,EN,MS,否,是,10000欧,null,* 发offer早，过期晚，适合拿来做保底,"* Edinhoven找房子非常困难，找不到学校会退学费
+TUE CS,TUE,欧洲,T1.5,2年,EN,MS,否,是,10000欧,null,* 发offer早，过期晚，适合拿来做保底,"* Edinhoven找房子非常困难，找不到学校会退学费
     * 申请手续复杂，需要论文摘要/资产证明和线下转账",2TU似乎会卡国内211，不过对于符合门槛的似乎很低,1,"[{'录取时间': '24fall', '录取结果': 'AD', '学校（档次）': '华五', '本科专业': 'CS', 'GPA/Rank': '3.2', '科研经历': '2段校内', '实习经历': '无', '其他（语言/推荐信）': 'IELTS7(6), 两封校内老板'}]","* 资产证明和转账很麻烦 需要提前准备
     * 对奖学金有期望的需要较早完成申请，以2023为例，申请期限大概在4月底左右，只有2月前的申请会被考虑奖学金",* 可能被学校要求补课
 UCL CGVI,UCL,英国,T1.5,1年,EN,Msc,否,null,null,null,"* 优异的QS排名和国内名誉，CG方向有不错的老师
@@ -434,7 +434,7 @@ UH DS,UH,未分类,T1.5,2年,EN,Master of Science,否,是,全奖/半奖,null,"  
         - 中餐馆质量不行🙃；
       - 学习
         - 赫大CS系还是比较小，在欧洲不算第一梯队，课程简单，所以不要期待从课堂学到太多知识；",null,1,"[{'录取时间': '2023', '录取结果': 'AD全奖', '学校（档次）': '985', '本科专业': 'CS', 'GPA/Rank': '85', '科研经历': 'None', '实习经历': '1段小公司', '其他（语言/推荐信）': '雅思6.5'}]",需要CHESICC成绩单认证,null
-University of Heidelberg DCS,University,欧陆,T1.5,null,null,null,null,null,null,null,"* 学校环境优美
+University of Heidelberg DCS,University,欧洲,T1.5,null,null,null,null,null,null,null,"* 学校环境优美
     * 学校综合排名不错
     * 德国居留政策好
     ","* 租房难
@@ -445,13 +445,13 @@ University of Heidelberg DCS,University,欧陆,T1.5,null,null,null,null,null,nul
     * 申请的时候不用交 APS 证书，录取后确认 offer 再交即可
     * 貌似不用交动机信、推荐信、课程描述等
     * 高中毕业证需要翻译公证",null
-CTH CAS,CTH,欧陆,T2,null,null,null,null,null,null,null,"* 瑞典良好的找工环境
+CTH CAS,CTH,欧洲,T2,null,null,null,null,null,null,null,"* 瑞典良好的找工环境
     ","* 对于打算回国的，查尔姆斯理工知名度不高，慎选
     ",null,1,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本top15', '本科专业': 'CS', 'GPA/Rank': '3.35/4.0', '科研经历': '无', '实习经历': '一段大厂', '其他（语言/推荐信）': 'IELTS 6.5'}]",null,null
-DTU AI,DTU,欧陆,T2,2年,EN,Master of Science,否,是,null,null,null,null,null,0,null,null,null
-DTU CS,DTU,欧陆,T2,2年,EN,Master of Science,否,是,null,null,"
+DTU AI,DTU,欧洲,T2,2年,EN,Master of Science,否,是,null,null,null,null,null,0,null,null,null
+DTU CS,DTU,欧洲,T2,2年,EN,Master of Science,否,是,null,null,"
     * 地处哥本哈根，有最密集的IT产业。但似乎丹麦有很多不同行业的（含金融银行，传统工业，能源等）也有IT的需求。",null,2024 Fall Update: 众所周知，DTU 国际招生处领导层更替，从点击就送变成卡均分 85。据观察，85及以上的无论学校背景（含双非）基本收到了offer，85-的基本无论学校背景都是WL。,3,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '陆本top15', '本科专业': 'CS', 'GPA/Rank': '3.35/4.0', '科研经历': '无', '实习经历': '一段大厂', '其他（语言/推荐信）': 'IELTS 6.5'}, {'录取时间': '24Fall', '录取结果': 'waiting list', '学校（档次）': '华五', '本科专业': 'CS', 'GPA/Rank': '3.2', '科研经历': '两段水科研', '实习经历': '无', '其他（语言/推荐信）': 'IELTS 7'}, {'录取时间': '24Fall', '录取结果': 'waiting list', '学校（档次）': '211', '本科专业': 'CS', 'GPA/Rank': '3.2', '科研经历': '两段水科研', '实习经历': '实习2段工作2年', '其他（语言/推荐信）': 'IELTS 6.5'}]",null,24Fall疑似变卷，卡GPA85
-FAU AI,FAU,欧陆,T2,null,null,null,null,null,null,null,"* 课程设置较合理
+FAU AI,FAU,欧洲,T2,null,null,null,null,null,null,null,"* 课程设置较合理
     * 免学费（随着TUM开始收学费，巴伐利亚的其他学校很快也会开始收取学费。Master约 2-6k €/学期）
     ","* 难租房，学校不会管这件事
     * 排名低，回国慎选
@@ -480,7 +480,7 @@ SMU MITB,SMU,新加坡,T2,1-2 年,EN,MITB Tracks （Master of IT in Business）,
     * 个人能力的影响因素较大，如果没有做好充分找工或者以此为跳板找phd，个人建议还是选名气大学校",主要看学校和成绩，无海本优势。（当然本地生肯定最好）,0,null,"1. 有面试，注意面试准备
     2. 需要GRE成绩，大约313左右
     3. 要交留位费",null
-TU Graz CS,TU,欧陆,T2,2年,EN,"Diplom-Ingenieur (Dipl.Ing. or DI),等于 Master of Science (MSc)",否,是,额外奖学金（较难申请）,null,"* 免学费，一学期只要762欧元团结费+学生会费
+TU Graz CS,TU,欧洲,T2,2年,EN,"Diplom-Ingenieur (Dipl.Ing. or DI),等于 Master of Science (MSc)",否,是,额外奖学金（较难申请）,null,"* 免学费，一学期只要762欧元团结费+学生会费
     * 开设科目众多，课程选择面大
     * 最靠近东欧的CS高校，方便享受东欧的旅游资源
     * 可以自由选择入学时间，学位保留一年，如23winter录取可以自由选择是23winter入学还是24summer入学
@@ -494,14 +494,14 @@ TU Graz CS,TU,欧陆,T2,2年,EN,"Diplom-Ingenieur (Dipl.Ing. or DI),等于 Maste
     * qs排名极低，考虑回国慎选
     ",null,0,null,"填写课程匹配表格相对繁琐
     需要根据提供的课程清单草拟一份想选的课程（但是不会对实际录取产生影响）",null
-TU Wien CS,TU,欧陆,T2,2年,EN,Master of Science,null,是,null,null,"* 学费开销低廉，名义上免学费，一学期大概只花七八百欧的注册费
+TU Wien CS,TU,欧洲,T2,2年,EN,Master of Science,null,是,null,null,"* 学费开销低廉，名义上免学费，一学期大概只花七八百欧的注册费
     * 维也纳宜居
     ","* 知名度低
     * 陆本学生需要 APS 审核，过程繁琐
     * 申请时所有材料只能通过邮寄的方式，没有网申渠道，非常麻烦
     * 2023 年底之前中国大陆地区不能做海牙认证，因此申请材料如成绩单、毕业证学位证等需要翻译 + 公证 + 领事双认证。花费高，而且等待时间长
     ",null,0,null,* 不能网申！一切材料只能通过纸质邮寄！确保在申请截止时间之前递交所有申请文件,* 必须拿到毕业证后才能申请，没有条件录取
-University of Vienna DS,University,欧陆,T2,2年,EN,Master of Science,null,是,null,null,"* 学费低廉，名义上免学费，实际上每学期只需交 750 欧左右的注册费
+University of Vienna DS,University,欧洲,T2,2年,EN,Master of Science,null,是,null,null,"* 学费低廉，名义上免学费，实际上每学期只需交 750 欧左右的注册费
     * 维也纳宜居
     ","* 知名度不高
     * 课业压力偏大
@@ -511,8 +511,8 @@ University of Vienna DS,University,欧陆,T2,2年,EN,Master of Science,null,是,
     ",null,0,null,"* 申请网站为：[uspace](https://uspace.univie.ac.at)
     * 对于成绩单之类的文件，上传领事认证后的公证书即可
     * 本项目官网上有提供动机信格式",null
-Uppsala CS,Uppsala,欧陆,T2,2年,EN,Master of Science,否,是,null,null,null,null,null,0,null,null,null
-UvA&VU CS,UvA&VU,欧陆,T2,2年,EN,Master of Science,否,是,有（较难）,null,"* 23-24学年学费：15580欧，生活费每月1000欧（学校建议1000欧，个人建议按1200准备）
+Uppsala CS,Uppsala,欧洲,T2,2年,EN,Master of Science,否,是,null,null,null,null,null,0,null,null,null
+UvA&VU CS,UvA&VU,欧洲,T2,2年,EN,Master of Science,否,是,有（较难）,null,"* 23-24学年学费：15580欧，生活费每月1000欧（学校建议1000欧，个人建议按1200准备）
     * 地处荷兰首都阿姆斯特丹，方便实习找工
     * 项目注册通过VU，VU提供第一年的找房服务，覆盖35%的国际新生，拿到offer后尽快缴纳500欧元的住房服务费，并加入排房list
     * 荷兰移民需要连续居住5年，通过融入考试（包括荷兰语），最后一年持有非临时签证（工作签证）
@@ -532,7 +532,7 @@ UvA&VU CS,UvA&VU,欧陆,T2,2年,EN,Master of Science,否,是,有（较难）,nul
     * 不需要推荐信，社恐选手狂喜
     * 23fall 雅思要求已经改为6.5(6.5)","* 无留位费，第一年学费+生活费在4-6月办签证时交。
     * 拿到offer决定去的话，第一时间交钱排房。"
-IPP DSAI,IPP,欧陆,TX,null,null,null,null,null,null,null,"* 高排名（2023 QS 49) 而门槛相对很低
+IPP DSAI,IPP,欧洲,TX,null,null,null,null,null,null,null,"* 高排名（2023 QS 49) 而门槛相对很低
     * 师资强大，授课教授人均千引
     * 开课广而深，适合深造
     * 地处帕莱索高原，毗邻Sacaly等科研单位，科研资源丰富，离市中心也不太远
@@ -636,7 +636,7 @@ L'X AiViC,L'X,未分类,TX,null,null,null,null,null,null,null,"* 师资强大，
     ",有海外经历的最好，案例比较少，录取很玄学,1,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': '海本', '本科专业': 'SE', 'GPA/Rank': '3.4/4.0', '科研经历': '无成果科研一段', '实习经历': '两端', '其他（语言/推荐信）': 'IELTS 6.5'}]","* 推荐信是网推
     * 需要填写对应的personal statement的表格，格式很奇怪，字数要求很变态，只写关键点都不够","* 项目会有面试
     * 一共四轮申请"
-TUM CS,TUM,欧陆,TX,1.5-2.5年,EN,Master of Science,否,是,德意志奖学金,null,"* 项目方向众多，选课方向广
+TUM CS,TUM,欧洲,TX,1.5-2.5年,EN,Master of Science,否,是,德意志奖学金,null,"* 项目方向众多，选课方向广
     * 系统与LMU互通，可以选LMU的相关课程
     * 慕尼黑纬度低，气候温暖适宜
     * 学校综合排名高，国内名气大，回国认可度更高
@@ -657,7 +657,7 @@ TUM CS,TUM,欧陆,TX,1.5-2.5年,EN,Master of Science,否,是,德意志奖学金,
     * 慕尼黑房源较紧张，租房成本较高
     ",按照最新的匹配度要求，只要匹配度达标则成绩并不重要。若匹配度不达标则成绩再高也没有用。,1,"[{'录取时间': '23Fall', '录取结果': 'AD', '学校（档次）': 'LMU Munich', '本科专业': 'CS+NLP', 'GPA/Rank': '1.14/1.0', '科研经历': '1段校内', '实习经历': '无', '其他（语言/推荐信）': '论文是英语写的，不用提交英语成绩'}]","* 德国的Informatik/informatic就是计算机科学专业
     * 论文不要用chatGPT写，也不要抄袭",23 winter修改了相应的录取标准，使陆本学生难以通过第一轮筛选; 24 winter该标准再次被修改，使陆本学生更有可能进入下一轮筛选，详见[该文章](https://zhuanlan.zhihu.com/p/599460721)
-University of Bonn CS,University,欧陆,TX,2年,EN,master of science,否,否,null,null,"* 免学费，每学期300欧左右的行政费
+University of Bonn CS,University,欧洲,TX,2年,EN,master of science,否,否,null,null,"* 免学费，每学期300欧左右的行政费
     * 欧洲少见的以研究为重点的硕士项目，可以类比为香港的Mphil
     * 周围研究所众多，进入研究所以及Phd机会大
     * 波恩风景优美，距离科隆很近，适合电竞观众
@@ -669,7 +669,7 @@ University of Bonn CS,University,欧陆,TX,2年,EN,master of science,否,否,nul
     * 需要APS，流程复杂
     * 需要fyp为研究型
     ",有研究经历,0,null,需要提交fyp的研究报告，并且需要阅读学校教授的论文并指出自己对哪一方面感兴趣,null
-University of Stuttgart CS,University,欧陆,TX,2年,EN,Master of Science,否,是,null,null,"* 学费低，1500欧/学期
+University of Stuttgart CS,University,欧洲,TX,2年,EN,Master of Science,否,是,null,null,"* 学费低，1500欧/学期
     * 周围企业众多，就业环境好
     * 纬度低，气候较为温暖
     * 可视化方向欧洲第一世界第三！！！
@@ -687,8 +687,8 @@ UTokyo CS,UTokyo,日韩/其他,TX,2年,EN,CS Msc (コンピュータ科学),否,
     * 相对宽松的永居政策
     ","* 不会日语的话，在日本生活比较麻烦
     ",有着独特的基于考试的选拔机制，具体请参看东京大学官网。,0,null,null,null
-UZH AI,UZH,欧陆,TX,null,null,null,null,null,null,null,null,null,null,0,null,null,null
-UZH CS,UZH,欧陆,TX,理论两年,EN,Master of Science,否,是,null,null,"* 学费便宜 (< 1k CHF)
+UZH AI,UZH,欧洲,TX,null,null,null,null,null,null,null,null,null,null,0,null,null,null
+UZH CS,UZH,欧洲,TX,理论两年,EN,Master of Science,否,是,null,null,"* 学费便宜 (< 1k CHF)
     * 苏黎世整体相对安全
     * 可以选ETH的课抵核心课和选修课的学分，能够用上ETH和UZH两边的资源
     * 有五个major，转major和minor都比较自由 (https://www.ifi.uzh.ch/en/studies/msc.html):
@@ -706,7 +706,7 @@ UZH CS,UZH,欧陆,TX,理论两年,EN,Master of Science,否,是,null,null,"* 学�
     个人掌握数据也不多，匹配度相比于德国没那么严格。更看重GPA，院校层次。",1,"[{'录取时间': '22Fall', '录取结果': 'AD', '学校（档次）': '211', '本科专业': '计算机', 'GPA/Rank': '85', '科研经历': '一段校内无产出', '实习经历': '一段国内大厂', '其他（语言/推荐信）': '雅思7，推荐信无'}]","课程描述一定要好好写，争取做到不补学分 :)
     ETH开始限制10043了，不知道后续UZH会不会也卡
     UZH是一个major下面会有好几个分支，学位都是信息学硕士。DS,Informatics,AI都是在Informatics下面。",null
-UZH DS,UZH,欧陆,TX,null,null,null,null,null,null,null,null,null,null,0,null,null,null
+UZH DS,UZH,欧洲,TX,null,null,null,null,null,null,null,null,null,null,0,null,null,null
 Waseda AO,Waseda,日韩/其他,TX,2年,EN/JP,Master of Engineering,否,是,见下文,null,"* 一年两次申请机会，可以选择 4 月或 9 月入学。英语成绩要求比较宽松，支持托福、托业、雅思成绩
     * 相比于 IPS，该项目由于包含计算机科学系，教授比较多，方向比较全
     * 需要套磁，研究型导向，可以留组读博，提交申请后基本没有面试（但是可能套磁的教授会与你有私人面试，面试通过后才会同意你申请。同时不同系有不同要求，有的系可能有教务面但是很少）
